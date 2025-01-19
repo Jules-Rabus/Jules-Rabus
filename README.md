@@ -3,8 +3,7 @@
 Here is some information about me:
 
 - 🧑‍💻 Master's degree student in Web Development at [ESGI Paris](https://www.esgi.fr/programmes/ingenierie-web.html "ESGI Paris")
-- 👗 Apprentice at Faubourg54
-- 🔭 I'm currently working on a ecommerce website for the brand [Faubourg54](https://www.faubourg54.com/fr/ "Faubourg54") including all the tools necessary for its functionality
+- 👗 Apprentice at Chanel
 - 📫 Here's my [LinkedIn](https://www.linkedin.com/in/jules-rabus "LinkedIn")
   
 - 🌱 I’m currently learning NodeJs, MongoDB, CI/CD
